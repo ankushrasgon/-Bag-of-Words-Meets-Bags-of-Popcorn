@@ -18,7 +18,7 @@ This project contains a practice of using Bag-of-Words with a Random Forest Clas
 
 ### <a name="install"></a>Install
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 3** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Beautiful Soup](https://www.crummy.com/software/BeautifulSoup/)
